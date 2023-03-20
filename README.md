@@ -1,2 +1,2 @@
-# SortModel.jl
-Sort JuMP models before optimize
+# ShuffleConstraints.jl
+Shuffle JuMP constraints before optimize
