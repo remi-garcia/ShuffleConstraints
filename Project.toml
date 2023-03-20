@@ -2,3 +2,8 @@ name = "ShuffleConstraints"
 uuid = "506f0c15-2c3f-48f6-866f-c437992f0ce5"
 authors = ["Remi"]
 version = "0.1.0"
+
+[deps]
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+MathOptInterface = "b8f27783-ece8-5eb3-8dc8-9495eed66fee"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
